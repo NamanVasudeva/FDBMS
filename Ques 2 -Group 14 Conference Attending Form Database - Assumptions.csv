@@ -1,0 +1,16 @@
+ASSUMPTIONS FOR THIS ASSIGNMENT,,,,
+We have created a Conference Attending Database,,,,
+Number of respondents - 13,,,,
+"For this conference, only current students or working professionals can register and attend the events.",,,,
+"The conference will host four events, Event-1, Event-2, Event-3 and Event-4",,,,
+The fees for attending the conference will be Rs. 100 for students and Rs. 500 for working professionals.,,,,
+"Once registration is done for the conference, a unique payment ID and conference ID is generated.",,,,
+Mandatory information for registration includes the contact number and AADHAR card number of the attendee (for primary key).,,,,
+,,,,
+,Primary Keys,,,
+,Aadhar Number,Contact,Conference ID,Payment ID
+,E-mail ID,Name,I will attend-,Type
+,Gender,,Reason for attending this conference, Fees Paid
+,City,,First time attending this conference?, 
+,,,,
+,"Note- ""Type"" here refers to whether the attendee is a Student or a Working Professional",,,
